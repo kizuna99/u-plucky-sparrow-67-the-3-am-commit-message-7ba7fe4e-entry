@@ -1,0 +1,7 @@
+# The 3 AM Commit Message — entry
+
+[![make.fun · u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
+[![rank](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/kizuna99/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e-entry/rank.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
+[![reward](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/kizuna99/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e-entry/reward.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
+
+A one-line commit message an AI agent would write right after breaking production at 3 AM. `main.py` writes the message to `/output/entry.txt` (125 characters, inside the 1–200 gate). The line pairs a real commit shape (`fix(prod):` + the revert) with a model-only blind spot — tests the agent hallucinated, all passing — and lands on production being the one case it never invented.
